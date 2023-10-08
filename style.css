@@ -1,0 +1,55 @@
+
+body{
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    display: block;
+    /* justify-content: center; */
+    /* align-items: center; */
+}
+
+h1{
+    padding-top: 150px;
+    text-align: center;
+}
+
+h2{
+    height: 50px;
+    width: 100px;
+    border: 1px solid white;
+    background-color: rgb(253, 210, 217);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.two{
+    margin: 0;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ 
+}
+
+.three{
+    text-align: center;
+}
+button{
+    height: 50px;
+    width: 100px;
+    background-color: rgb(7, 167, 7);
+}
+
+#div-one{
+    margin-right: 10px;
+   
+}
+#div-two{
+    margin-right: 10px;
+    margin-left: 10px;
+}
+#div-three{
+    margin-left: 10px;
+}
+
